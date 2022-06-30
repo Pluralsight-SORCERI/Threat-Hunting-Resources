@@ -3,7 +3,7 @@ A store of resources associated with the Pluralsight Threat Hunting Path that ca
 
 ## Kibana Dashboards
 
-The initial dashboards contain a great starting point for threat hunting with Zeek data. See [Kibana Dashboards](./Kibana%20Dashboards/README.md) to find out more!
+The initial dashboards contain a great starting point for threat hunting with Zeek data. See [Kibana Dashboards](./Kibana%20Dashboards) to find out more!
 
 ---
 
